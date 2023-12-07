@@ -34,4 +34,4 @@ Alors la date d'invitation est le 30/06/2023
 Etant donné que le nombre de mois à incrémenter pour le dépistage des poumons est de 3 
 Quand je veux calculer la date d'invitation pour la date de naissance au 30/11/1993 
 et la date du jour au 23/05/2023 
-Alors la date d'invitation est le 28/02/2023 
+Alors la date d'invitation est le 29/02/2024

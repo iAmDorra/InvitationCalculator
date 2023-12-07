@@ -2,5 +2,7 @@ namespace InvitationCalculator.Tests;
 
 public enum ScreeningType
 {
-    Uterus
+    Uterus,
+    Colon,
+    Lung
 }
